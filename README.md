@@ -1,7 +1,7 @@
 <h1 align="center">Ello, I'm Cosmin Nichita</h1>
 <h3 align="center">Enthusiast Full-Stack Web Developer</h3>
 
-<img src="![Image](https://github.com/user-attachments/assets/8ecaf171-4ada-475e-a1a7-2039e3d531cb)">
+<img src="https://github.com/user-attachments/assets/8ecaf171-4ada-475e-a1a7-2039e3d531cb">
 
 - 🔭 I’m currently working on [React + D3 Travel App](https://github.com/xCosmin14/3D-Travel-Themed-React-App)
 
