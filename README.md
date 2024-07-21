@@ -1,3 +1,5 @@
+<svg src="https://github.com/xCosmin14/xCosmin14/issues/1#issue-2421233331"></svg>
+
 <h1 align="center">Ello, I'm Cosmin Nichita</h1>
 <h3 align="center">Enthusiast Full-Stack Web Developer</h3>
 
