@@ -5,9 +5,9 @@
 
 <h2>- 🔭 I’m currently working on [React + D3 Travel App](https://github.com/xCosmin14/3D-Travel-Themed-React-App)</h2>
 
-<h2>- 🌱 I’m currently learning <b>React.js, D3.js</b></h2>
+<h2>- 🌱 I’m currently learning: <b>React.js, D3.js</b></h2>
 
-<h2>- 📫 How to reach me **nichitacosmin35@gmail.com**</h2>
+<h2>- 📫 Email me: **nichitacosmin35@gmail.com**</h2>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
