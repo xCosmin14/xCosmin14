@@ -3,15 +3,15 @@
 
 <img src="https://github.com/user-attachments/assets/8ecaf171-4ada-475e-a1a7-2039e3d531cb">
 
-- 🔭 I’m currently working on [React + D3 Travel App](https://github.com/xCosmin14/3D-Travel-Themed-React-App)
+<h2>- 🔭 I’m currently working on [React + D3 Travel App](https://github.com/xCosmin14/3D-Travel-Themed-React-App)</h2>
 
-- 🌱 I’m currently learning **React.js, D3.js**
+<h2>- 🌱 I’m currently learning **React.js, D3.js**</h2>
 
-- 📫 How to reach me **nichitacosmin35@gmail.com**
+<h2>- 📫 How to reach me **nichitacosmin35@gmail.com**</h2>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://instagram.com/cosmin_n14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmin_n14" height="30" width="40" /></a>
+  <a href="https://instagram.com/cosmin_n14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmin_n14" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
