@@ -3,11 +3,11 @@
 
 <img src="https://github.com/user-attachments/assets/8ecaf171-4ada-475e-a1a7-2039e3d531cb">
 
-<h2 margin-top="20px">- 🔭 I’m currently working on React + D3 Travel App(https://github.com/xCosmin14/3D-Travel-Themed-React-App)</h2>
+<h2 margin-top="20px" underline="none">- 🔭 I’m currently working on React + D3 Travel App(https://github.com/xCosmin14/3D-Travel-Themed-React-App)</h2>
 
-<h2 margin-top="20px">- 🌱 I’m currently learning: <b>React.js, D3.js</b></h2>
+<h2 margin-top="20px" underline="none">- 🌱 I’m currently learning: React.js, D3.js</h2>
 
-<h2 margin-top="20px">- 📫 Email me: **nichitacosmin35@gmail.com**</h2>
+<h2 margin-top="20px" underline="none">- 📫 Email me: nichitacosmin35@gmail.com</h2>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
