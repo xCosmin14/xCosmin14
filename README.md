@@ -1,4 +1,3 @@
-![Alt text](https://github.com/user-attachments/assets/e2963f3a-b9cf-4e68-9906-2426d830038e)
 <img src="https://github.com/user-attachments/assets/e2963f3a-b9cf-4e68-9906-2426d830038e">
 
 <h1 align="center">Ello, I'm Cosmin Nichita</h1>
