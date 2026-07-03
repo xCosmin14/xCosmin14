@@ -11,7 +11,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://instagram.com/cosmin_n14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmin_n14" height="30" width="40" /></a>
+  <a href="https://instagram.com/pe.bune.cosminn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmin_n14" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
